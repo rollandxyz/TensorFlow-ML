@@ -9,3 +9,5 @@ hello = tf.constant('Hello, TensorFlow!')
 sess = tf.Session()
 print(sess.run(hello))
 ```
+
+## https://www.tensorflow.org/get_started/
