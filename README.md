@@ -10,4 +10,8 @@ sess = tf.Session()
 print(sess.run(hello))
 ```
 
-## https://www.tensorflow.org/get_started/
+### https://www.tensorflow.org/get_started/
+### https://js.tensorflow.org/
+### https://deeplearnjs.org/
+### https://github.com/tensorflow/tfjs-examples
+### https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db
